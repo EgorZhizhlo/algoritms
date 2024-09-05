@@ -1,2 +1,2 @@
-# algoritms
+# Algoritms
 Repo for algoritms
